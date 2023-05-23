@@ -1,14 +1,4 @@
-<h2 align="center">
-  <picture>
-    <img alt="DataInfra Logo" src="https://raw.githubusercontent.com/datainfrahq/.github/main/images/logo.svg" width="500" height="100">
-  </picture>
-  <br>
-  Distributed Systems Operator Interface
-  </br>
-</h2>
-
-
-<div align="center">
+# Distributed Systems Operator Interface
 
 ![CI](https://github.com/datainfrahq/dsoi-spec/workflows/CI/badge.svg) [![Slack](https://img.shields.io/badge/slack-brightgreen.svg?logo=slack&label=Community&style=flat&color=%2373DC8C&)](https://launchpass.com/datainfra-workspace) 
 
